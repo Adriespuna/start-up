@@ -1,0 +1,21 @@
+.btn{
+  background-color: #B9E5E8;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-s
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.btn:hover {
+  background-color: #B9E5E8;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #133E87;
+
+}
